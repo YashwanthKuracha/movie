@@ -1,0 +1,11 @@
+.movieTitleContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.movieImage {
+    height: 408px;
+    width: 600px;
+    margin-top: 32px;
+    border-radius: 10px;
+}

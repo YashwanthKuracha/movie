@@ -1,0 +1,11 @@
+.photo{
+    height: 300px;
+    width: 380px;
+    left: 0px;
+    top: 400px;
+    border-radius: 10px;
+}
+
+.gallery{
+    margin-top: 72px;
+}

@@ -1,0 +1,12 @@
+.castTileContainer {
+    display: flex;
+    padding: 30px;
+}
+
+.pic{
+    height: 150px;
+    width: 150px;
+    left: 20px;
+    top: 25px;
+    border-radius: 0px;
+}
